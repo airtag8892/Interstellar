@@ -11,7 +11,7 @@ function handleClick(app) {
 
   if (app.local) {
     saveToLocal(app.link)
-    window.location.href = '1'
+    window.location.href = 'p'
   } else if (app.local2) {
     saveToLocal(app.link)
     window.location.href = app.link
@@ -162,10 +162,18 @@ document.addEventListener('DOMContentLoaded', () => {
       pinList = pinList ? pinList.split(',').map(Number) : []
       appInd = 0
       appsList.forEach((app) => {
-        const isLocal = app.categories.includes('local')
-
-        if (isLocal) {
+        if (app.categories && app.categories.includes('local')) {
           app.local = true
+        } else if (app.link && (app.link.includes('now.gg') || app.link.includes('nowgg.me'))) {
+          if (app.partial === null || app.partial === undefined) {
+            app.partial = true
+            app.say = 'Now.gg is currently not working for some users.'
+          }
+        } else if (app.link && app.link.includes('nowgg.nl')) {
+          if (app.error === null || app.error === undefined) {
+            app.error = true
+            app.say = 'NowGG.nl is currently down.'
+          }
         }
 
         let pinNum = appInd
@@ -209,6 +217,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (app.error) {
           paragraph.style.color = 'red'
+        } else if (app.partial) {
+          paragraph.style.color = 'yellow'
         }
 
         link.appendChild(image)
