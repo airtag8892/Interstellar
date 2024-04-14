@@ -1,0 +1,84 @@
+Interstellar privacy policy and terms of use (in a text file for accessibility reasons)
+
+Section 1: Definitions
+In this privacy policy, "We" refers to "Interstellar". "Personally-identifiable information" (PII) refers to information that can be used to identify a person such as IP addresses. "Official Interstellar deployments" refer to the Interstellar application running on the official server. "Interstellar deployment operator" refers to the person(s) running the Interstellar application. "ToS" refers to Terms of Service.
+Please redirect any general inquiries to our official community on Discord. Redirect any questions regarding unofficial Interstellar deployments to its operator.
+
+Section 2: Summary
+By using Interstellar, you agree you understand and acknowledge this privacy policy and its clauses.
+Interstellar will not be held liable in any situation that may occur as a result of using or hosting the Interstellar application on ANY Interstellar deployment.
+The safest way to use Interstellar is by using its official deployments or by hosting Interstellar on your own machine.
+
+Section 2.1: Summary - Offical Interstellar Deployment
+Official Interstellar deployments are run with privacy in mind. We do not intentionally collect and retain any PII such as IP addresses used to access the official Interstellar deployment.
+
+Section 2.2: Summary - Unofficial Interstellar Deployments
+Interstellar developers are commited to ensuring Interstellar remains as a secure application. However, we cannot guarantee the same level of security or privacy of unofficial Interstellar deployments.
+The type of information collected on community deployments is completely dependent on who and where the deployment is being hosted.
+Generally, we recommend Interstellar deployment operators to collect as minimal information as possible.
+We cannot control unofficial Interstellar deployments.
+We cannot verify the authenticity of the code in unofficial Interstellar deployments. This is an extremely rare situation, but we will not be held responsible if your data such as an account becomes compromised as a result of malicious code in an unofficial Interstellar deployment.
+
+Section 3: Acceptable Use
+Do not use any Interstellar deployment to do illegal activity.
+If you are under 18, do not use any Interstellar deployment to access any adult sites.
+
+Section 4: Third Parties
+
+Section 4.1: Google Analytics Usage
+Google Analytics is active and embedded in Interstellar's code.
+You may read the Google Analytics ToS here.
+You may read "HOW GOOGLE USES INFORMATION FROM SITES OR APPS THAT USE OUR SERVICES" here.
+
+Section 4.2: Our community on Discord
+Our official community on Discord is accessible at https://discord.gg/interstellar.
+By joining, you agree and acknowledge our Discord server rules.
+You can read the Discord ToS here.
+You can read the Discord privacy policy here.
+You can read the Discord community guidelines here.
+
+Section 4.3: Our commmunity and repository at GitHub
+Interstellar is an open source project. You can view its code by clicking here.
+You can read the GitHub ToS here.
+You can read the GitHub General Privacy Statement here.
+
+Section 4.4: Supporting Interstellar using Patreon
+Interstellar uses Patreon as a way for people to donate and support Interstellar.
+You can read the Patreon ToS here.
+You can read the Patreon Privacy Policy here.
+You can read the Patreon Cookie Policy here.
+
+Section 4.5: Supporting Interstellar using Cash App
+Interstellar accepts Cash App as a way for people to donate and support Interstellar.
+You can read the Cash App privacy policy here.
+You can read the Cash App ToS here.
+
+Section 5: The information we collect
+
+Section 5.1: The official Interstellar deployment
+Information that may be unintentionally collected as part of using Interstellar's official deployment may include basic information such as your IP address, web traffic when using Interstellar, etc. This information is temporary and is kept until the server is rebooted.
+We do not purposefully collect anyone's information. We try to limit the data collected by the official Interstellar deployment.
+We do not, will not, and will never knowingly collect the information of minors under the age of 13 (or the minimum age required by laws in your country).
+
+Section 5.2: Unofficial Interstellar Deployments
+We can't give a definitive answer on what information is collected when you use a unofficial Interstellar deployment, only the operator of the Interstellar deployment you're using can.
+We urge operators to collect and store as minimal information as possible, but we can't control what they do.
+
+Section 6: Control
+We do not have the power to control what unofficial Interstellar deployment operators do with their deployment.
+We protect information stored on the official Interstellar deployment by limiting access. The only person that has access to the server of which the official Interstellar deployment runs on is the server host and the owner of Interstellar, xbubbo.
+We cannot check every deployment for malicious code. If any data such as your account gets compromised after you access it on a unofficial Interstellar deployment, we will not be held liable.
+
+Section 7: How we use basic information on the official Interstellar deployment that may be collected accidentally
+Your IP address is used to allow you to use the Interstellar service. This is how it works for every website you visit, not just Interstellar. The difference is whether or not this data is intentionally collected and stored.
+Info about your web traffic while using Interstellar is needed to allow you to access the service you wish to access.
+Interstellar will NEVER sell your info to third-parties, other than to some ad companies. We do this so we can make enough money to pay for our server.
+The official Interstellar server operator may respond to legal requests and assist law enforcement officials in legal investigations if ever needed. We can't guarantee we'll always have information to hand out as the information that may be collected is automatically destroyed on reboot, but if we do still have information relevent to the investigation, we may provide law enforcement officials with it. Please redirect all requests regarding data with an unofficial Interstellar deployment to its operator, as we don't have control over unofficial deployments and couldn't comply with requests even if we wanted to.
+
+Section 8: Supporters ❤
+You may choose to support Interstellar by joining our Discord community, then purchasing a payment plan on the Patreon page or by sending $akabubbo money on Cash App.
+As a thank you for supporting Interstellar, you get access to supporter features. This includes a server with an Interstellar deployment for supporters only. We cannot guarantee 100% uptime.
+This is NON-REFUNDABLE.
+
+Last Updated
+April 12, 2024 - Privacy Policy & ToS created.
