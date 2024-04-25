@@ -20,7 +20,7 @@
   {
     "name": "Steam",
     "link": "https://steampowered.com/",
-    "image": "/assets/media/icons/steam.ico",
+    "image": "/assets/media/icons/steam.webp",
     "categories": ["all"],
     "say": "Steam can't actually be added because it's an app, not a website. This only lets you browse the Steam website, you can't actually play any games unless you use Geforce Now."
   },
@@ -151,6 +151,24 @@
     "categories": ["all", "social", "message"]
   },
   {
+    "name": "MLB",
+    "link": "https://mlb.com",
+    "image": "/assets/media/icons/mlb.png",
+    "categories": ["all"]
+  },
+  {
+    "name": "NFL",
+    "link": "https://nfl.com",
+    "image": "/assets/media/icons/nfl.png",
+    "categories": ["all"]
+  },
+  {
+    "name": "NBA",
+    "link": "https://nba.com",
+    "image": "assets/media/icons/nba.png",
+    "categories": ["all"]
+  },
+  {
     "name": "Paramount Plus",
     "link": "https://paramountplus.com",
     "image": "/assets/media/icons/paramount.webp",
@@ -175,6 +193,12 @@
     "categories": ["all", "game"]
   },
   {
+    "name": "Premier League",
+    "link": "https://premierleague.com",
+    "image": "/assets/media/icons/pl.jpg",
+    "categories": ["all"]
+  },
+  {
     "name": "Soundcloud",
     "link": "https://soundcloud.com",
     "image": "/assets/media/icons/soundcloud.webp",
@@ -197,6 +221,12 @@
     "link": "https://tiktok.com",
     "image": "/assets/media/icons/tiktok.webp",
     "categories": ["all", "social", "media"]
+  },
+  {
+    "name": "Trello",
+    "link": "https://trello.com",
+    "image": "/assets/media/icons/trello.png",
+    "categories": ["all"]
   },
   {
     "name": "Tumblr",
@@ -230,22 +260,23 @@
   },
   {
     "name": "YouTube",
+    "link": "https://youtube.com",
     "image": "/assets/media/icons/youtube.webp",
     "categories": ["all", "social", "stream", "media"],
-    "error": true,
-    "say": "YouTube is currently not working. Use Invidious Instead."
+    "dy": "true",
+    "partial": "true"
   },
   {
-    "name": "YouTube (Invidious)",
+    "name": "YouTube Alternative (Invidious)",
     "link": "https://vid.puffyan.us/",
     "image": "/assets/media/icons/youtube.webp",
     "categories": ["all", "social", "stream", "media"]
   },
   {
     "name": "Whatsapp",
-    "link": "https://web.whatsapp.com/",
     "image": "/assets/media/icons/whatsapp.webp",
-    "categories": ["all", "message", "social"]
+    "categories": ["all", "message", "social"],
+    "error": true
   },
   {
     "name": "Wattpad",
@@ -298,7 +329,7 @@
     "blank": "true"
   },
   {
-    "name": "Google Gemini ",
+    "name": "Google Gemini",
     "link": "https://gemini.google.com",
     "image": "/assets/media/icons/gemini.webp",
     "categories": ["all", "ai"]
@@ -328,19 +359,25 @@
   {
     "name": "W3Schools",
     "link": "https://www.w3schools.com",
-    "image": "/assets/media/icons/W3Schools.png",
+    "image": "/assets/media/icons/W3Schools.webp",
     "categories": ["all"]
   },
   {
     "name": "Newgrounds",
     "link": "https://www.newgrounds.com",
-    "image": "/assets/media/icons/ng.png",
+    "image": "/assets/media/icons/newgrounds.webp",
     "categories": ["all", "social", "game", "media"]
   },
   {
     "name": "Instagram",
     "image": "/assets/media/icons/insta.webp",
     "categories": ["all", "social", "message", "media"],
+    "error": "true"
+  },
+  {
+    "name": "Proton Mail",
+    "image": "/assets/media/icons/proton.webp",
+    "categories": ["all"],
     "error": "true"
   }
 ]

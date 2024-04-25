@@ -19,6 +19,12 @@
     "blank": "true"
   },
   {
+    "name": "Gartic Phone",
+    "link": "https://garticphone.com",
+    "image": "/assets/media/icons/garticphone.webp",
+    "categories": ["all"]
+  },
+  {
     "name": "Newgrounds",
     "link": "https://newgrounds.com/",
     "image": "/assets/media/icons/newgrounds.webp",
@@ -27,15 +33,21 @@
   {
     "name": "Pranx",
     "link": "https://pranx.com/",
-    "image": "/assets/media/icons/pranx.jpg",
+    "image": "/assets/media/icons/pranx.webp",
     "categories": ["all"]
   },
   {
     "name": "Steam",
     "link": "https://steampowered.com/",
-    "image": "/assets/media/icons/steam.ico",
+    "image": "/assets/media/icons/steam.webp",
     "categories": ["all"],
     "say": "Steam can't actually be added because it's an app, not a website. This only lets you browse the Steam website, you can't actually play any games unless you use Geforce Now."
+  },
+  {
+    "name": "Swordbattle.io",
+    "link": "https://swordbattle.io/",
+    "image": "/assets/media/icons/swordbattle.webp",
+    "categories": ["all", "2d"]
   },
   {
     "name": "Stabfish.io",
@@ -342,7 +354,7 @@
   {
     "name": "AntWar.io",
     "link": "https://antwar.io/",
-    "image": "/assets/media/icons/antwario.jpg",
+    "image": "/assets/media/icons/antwario.webp",
     "categories": ["all", "2P"]
   },
   {
@@ -1026,7 +1038,7 @@
   {
     "name": "Idle Breakout",
     "link": "https://interstellarnetwork.github.io/Interstellar-Assets/play/idle-breakout/index.html",
-    "image": "/assets/media/icons/idle.webp",
+    "image": "/assets/media/icons/idlebreakout.webp",
     "categories": ["all"]
   },
   {
@@ -1809,7 +1821,7 @@
   {
     "name": "Windows 96",
     "link": "https://windows96.net",
-    "image": "/assets/media/icons/windows96.png",
+    "image": "/assets/media/icons/windows96.webp",
     "categories": ["all"]
   },
   {
@@ -1817,5 +1829,41 @@
     "link": "https://f.silvergames.com/ruffle/player.php?id=3742",
     "image": "/assets/media/icons/book2.webp",
     "categories": ["all", "emu"]
+  },
+  {
+    "name": "Wrassling",
+    "link": "https://games.poki.com/458768/wrassling",
+    "image": "/assets/media/icons/wrassling.webp",
+    "categories": ["all"]
+  },
+  {
+    "name": "Happy Wheels",
+    "link": "https://games-online.io/game/HappyWheels/",
+    "image": "/assets/media/icons/hw.webp",
+    "categories": ["all"]
+  },
+  {
+    "name": "Google Snake Modded",
+    "link": "https://googlesnakemods.com/v/current/",
+    "image": "/assets/media/icons/snake.webp",
+    "categories": ["all"]
+  },
+  {
+    "name": "Idle Startup Tycoon",
+    "link": "https://www.mortgagecalculator.org/money-games/idle-startup-tycoon/",
+    "image": "/assets/media/icons/idlestartup.webp",
+    "categories": ["all"]
+  },
+  {
+    "name": "Two Player Games",
+    "link": "https://www.twoplayergames.org/",
+    "image": "/assets/media/icons/tpg.webp",
+    "categories": ["all"]
+  },
+  {
+    "name": "Goomy Clicker 2",
+    "link": "https://idle-js-games.github.io/goomyClicker2/",
+    "image": "/assets/media/icons/gc2.webp",
+    "categories": ["all"]
   }
 ]
